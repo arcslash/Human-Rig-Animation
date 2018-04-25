@@ -7,30 +7,30 @@
     format="10"
     ir-eligibility="COMPATIBLE"
     plugin-version="3.1.1"
-    timestamp="1524578905083"
+    timestamp="1524637461310"
     token="-1024685158456673798"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="24" />
+        duration="128" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="7" />
+        duration="3" />
     <task
         name="verifier"
-        duration="0" />
+        duration="2" />
 
     <artifact
-        location="/home/ishara/android-3D-model-viewer/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+        location="/home/ishara/android-3D-model-viewer/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
         type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1524578785207"
+        timestamp="1524628384770"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/ishara/android-3D-model-viewer/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
@@ -71,11 +71,20 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1524578905083"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1524635373216"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/ishara/android-3D-model-viewer/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1524637461310"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/ishara/android-3D-model-viewer/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
     </build>
 

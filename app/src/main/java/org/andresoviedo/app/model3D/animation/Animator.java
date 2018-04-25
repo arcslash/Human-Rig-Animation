@@ -58,19 +58,25 @@ public class Animator {
 	 */
 	public void update(Object3DData obj) {
 		if (!(obj instanceof AnimatedModel)) {
+
 			return;
 		}
 		// if (true) return;
 		AnimatedModel animatedModel = (AnimatedModel)obj;
+		if (animatedModel.getAnimation() == null){
+		    requestNonAnim(obj);
+            return;
+        }
+        if(initialized == false && (obj instanceof AnimatedModel)){
+            this.jointengine = new JointEngine(getJoints(calculateCurrentAnimationPose(animatedModel)));
+        }
+
 		//Log.d("PASSED",calculateCurrentAnimationPose(animatedModel).keySet().toString());
-		if(initialized == false && (obj instanceof AnimatedModel)){
-			this.jointengine = new JointEngine(getJoints(calculateCurrentAnimationPose(animatedModel)));
-		}
 
 
-		if (animatedModel.getAnimation() == null) return;
 
-		initAnimation(animatedModel);
+
+		//initAnimation(animatedModel);
 
 		increaseAnimationTime((AnimatedModel)obj);
 
@@ -104,6 +110,21 @@ public class Animator {
 		}
 		return init_map;
 
+
+	}
+
+	private void requestNonAnim(Object3DData animatedModel){
+		Map<String, float[]> currentPose = new HashMap<String, float[]>();
+		String id_s = animatedModel.getId();
+
+//		animatedModel.getJointTransforms();
+//
+//
+//		this.jointengine = new JointEngine(currentPose);
+//
+//		float parentTransform[] = new float[16];
+//		Matrix.setIdentityM(parentTransform,0);
+//		applyPoseToJoints(this.jointengine.requestPose(), (animatedModel).getRootJoint(), parentTransform);
 
 	}
 
@@ -248,6 +269,7 @@ public class Animator {
 	 *         always have a length of 2.
 	 */
 	private KeyFrame[] getPreviousAndNextFrames(AnimatedModel obj) {
+
 		KeyFrame[] allFrames = obj.getAnimation().getKeyFrames();
 		KeyFrame previousFrame = allFrames[0];
 		KeyFrame nextFrame = allFrames[0];
