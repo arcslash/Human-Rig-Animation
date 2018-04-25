@@ -1,4 +1,4 @@
-Android 3D Model Viewer
+Android 3D Model Viewer - Control Humanoid Rig for sesor coordinates
 =======================
 
 ![codeship badge](https://codeship.com/projects/52cf9560-deb2-0134-4203-2aaddef843aa/status?branch=master)
@@ -125,67 +125,7 @@ Donations
 [<img src="https://www.paypalobjects.com/webstatic/en_US/i/btn/png/btn_donate_92x26.png">](https://www.paypal.me/andresoviedo)
 
 
-ChangeLog
-=========
 
-(f) fixed, (i) improved, (n) new feature
-
-- 2.0.4 (22/12/2017)
-  - (n) Implemented face collision detection algorithm: ray-triangle + octree
-- 2.0.3 (21/12/2017)
-  - (i) Improved collision detection algorithm (ray-aabb) for selecting objects
-  - (i) BoundingBox code cleanup
-- 2.0.2 (17/12/2017)
-  - (f) Collada XML parser is now android's XmlPullParser
-  - (f) Animation engine frame times improved
-  - (n) Camera now moves smoothly
-- 2.0.1 (08/12/2017)
-  - (f) Multiple Collada parser fixes
-  - (f) Camera now can look inside objects
-- 2.0.0 (24/11/2017)
-  - (n) Support for collada files with skeletal animations :)
-- 1.4.1 (21/11/2017)
-  - (f) #29: Crash loading obj with only vertex info
-- 1.4.0 (19/11/2017)
-  - (f) #28: Load texture available for any model having texture coordinates
-- 1.3.1 (23/04/2017)
-  - (f) #18: Removed asReadOnlyBuffer() because it is causing IndexOutOfBounds on Android 7
-- 1.3.0 (17/04/2017)
-  - (n) #17: Added support for STL files
-  - (n) #17: Asynchronous building of model so the build rendering is previewed
-  - (f) #17: Added Toasts to buttons to show current state
-- 1.2.10 (16/04/2017)
-  - (f) #16: Immersive mode is now configurable in the ModelActivity Intent: b.putString("immersiveMode", "false");
-  - (f) #16: Background color configurable in the ModelActivity Intent: b.putString("backgroundColor", "0 0 0 1");
-  - (f) #16: Fixed vertex normals generation (vertices were missing)
-  - (f) #16: Scaling is now implemented in the ModelView Matrix with Object3DData.setScale(float[])
-  - (f) #16: Wireframe generation is now using the source data
-  - (n) #16: Implemented Point Drawing, like wireframe mode but only the points are drawn
-  - (f) #16: Removed trailing slash from parameter "assetDir"
-  - (f) #16: Access to ByteBuffers made absolute so there are thread safe (future fixes need this)
-- 1.2.9 (11/04/2017)
-  - (f) #15: Toggle rotating light
-  - (f) #15: Wireframe with textures and colors
-- 1.2.8 (10/04/2017)
-  - (f) Fixed #14: Camera movement improved. Only 1 rotation vector is used + space bounds set
-- 1.2.8 (04/04/2017)
-  - (f) Fixed #13: parsing of vertices with multiple spaces
-  - (i) Improved error handling on loading task
-  - (i) Vertices are defaulted to (0,0,0) if parsing fails
-- 1.2.7 (03/04/2017)
-  - (i) Removed commons-lang3 dependency
-- 1.2.6 (02/04/2017)
-  - (f) Fixed #12. Drawing the wireframe using GL_LINES and the index buffer (drawElements)
-- 1.2.5 (01/04/2017)
-  - (f) Fixed #10. Map faces to texture only when using the only loaded texture
-  - (f) Fixed #11. Generation of missing vertex normals
-- 1.2.4 (30/03/2017)
-  - (f) Fixed #5. Memory performance optimization
-- 1.2.3 (27/03/2017)
-  - (f) Fixed #1. Cpu performance optimization
-- 1.2.2 (25/03/2017)
-  - (f) Fixed #9. IOOBE loading face normals when faces had no texture or normals
-- 1.2.1 (27/02/2017)
   - (f) Fixed loading external files issue #6
   - (i) Project moved to gradle
 - 1.2.0 (06/04/2016)
