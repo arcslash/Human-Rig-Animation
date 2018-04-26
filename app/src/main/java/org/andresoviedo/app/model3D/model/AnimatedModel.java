@@ -1,11 +1,15 @@
 package org.andresoviedo.app.model3D.model;
 
 import android.opengl.Matrix;
+import android.util.Log;
 
 import org.andresoviedo.app.model3D.animation.Animation;
 import org.andresoviedo.app.model3D.services.collada.entities.Joint;
 
 import java.nio.FloatBuffer;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.Map;
 
 
 /**
@@ -29,8 +33,11 @@ public class AnimatedModel extends Object3DData {
 	private FloatBuffer vertexWeigths;
 	private Animation animation;
 
+	HashMap jointssystem;
+
 	public AnimatedModel(FloatBuffer vertexArrayBuffer){
 		super(vertexArrayBuffer);
+		jointssystem = new HashMap<String,float[]>();
 	}
 
 	/**
@@ -133,9 +140,32 @@ public class AnimatedModel extends Object3DData {
 	 */
 	private void addJointsToArray(Joint headJoint, float [][] jointMatrices) {
 		jointMatrices[headJoint.index] = headJoint.getAnimatedTransform();
+
 		for (Joint childJoint : headJoint.children) {
 			addJointsToArray(childJoint, jointMatrices);
+			jointssystem.put(childJoint.name, jointMatrices);
+			//Log.d("JOINTSINFO", Arrays.toString(jointMatrices));
+
 		}
+
+
+
 	}
+
+	/**
+	 * This method moves the joint in the 3d space with the given float transformation of
+	 * float[16]
+	 * @param transformation
+	 *            - The transformation required for the joint
+	 */
+	public void moveJoint(int id, float[] transformation){
+		rootJoint.children.get(id).setAnimationTransform(transformation);
+	}
+
+	public Map<String,float[]> viewJoints(){
+
+		return jointssystem;
+	}
+
 
 }

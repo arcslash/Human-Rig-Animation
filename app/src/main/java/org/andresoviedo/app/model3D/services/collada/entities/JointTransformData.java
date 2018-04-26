@@ -20,6 +20,6 @@ public class JointTransformData {
 		this.jointNameId = jointNameId;
 		this.jointLocalTransform = jointLocalTransform;
 
-		Log.d("BOIS",Float.toString(jointLocalTransform[0]));
+		//Log.d("BOIS",Float.toString(jointLocalTransform[0]));
 	}
 }

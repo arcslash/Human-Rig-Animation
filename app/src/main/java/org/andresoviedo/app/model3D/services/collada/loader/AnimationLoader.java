@@ -4,7 +4,6 @@ import android.opengl.Matrix;
 import android.util.Log;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.TreeSet;
 
@@ -31,6 +30,7 @@ public class AnimationLoader {
 	}
 	
 	public AnimationData extractAnimation(){
+
 		String rootNode = findRootJointName();
 		TreeSet<Float> times = getKeyTimes();
 		float duration = times.last();
@@ -49,17 +49,24 @@ public class AnimationLoader {
 	
 	private TreeSet<Float> getKeyTimes(){
 		TreeSet<Float> ret = new TreeSet<Float>();
-		for (XmlNode animation : animationData.getChildren("animation")) {
-			if (animation.getChild("animation") != null) {
-				animation = animation.getChild("animation");
-			}
-			XmlNode timeData = animation.getChild("source").getChild("float_array");
-			String[] rawTimes = timeData.getData().trim().split("\\s+");
-			for (int i = 0; i < rawTimes.length; i++) {
-				ret.add(Float.parseFloat(rawTimes[i]));
+		//included following if *** Ishara
+		try{
 
+			for (XmlNode animation : animationData.getChildren("animation")) {
+				if (animation.getChild("animation") != null) {
+					animation = animation.getChild("animation");
+				}
+				XmlNode timeData = animation.getChild("source").getChild("float_array");
+				String[] rawTimes = timeData.getData().trim().split("\\s+");
+				for (int i = 0; i < rawTimes.length; i++) {
+					ret.add(Float.parseFloat(rawTimes[i]));
+
+				}
 			}
+		}catch (NullPointerException ex){
+			Log.d("ERROR",ex.toString());
 		}
+
 		return ret;
 	}
 	

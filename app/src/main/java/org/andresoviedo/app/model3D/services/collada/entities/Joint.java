@@ -141,5 +141,16 @@ public class Joint {
 			child.calcInverseBindTransform(bindTransform);
 		}
 	}
+	public List<String> getJointHierachy(){
+		List<String> jointchildren = new ArrayList<String>();
+		for (Joint child:children ) {
+			jointchildren.add(child.name);
+
+		}
+		return jointchildren;
+	}
+	public String getJointName(){
+		return this.name;
+	}
 
 }

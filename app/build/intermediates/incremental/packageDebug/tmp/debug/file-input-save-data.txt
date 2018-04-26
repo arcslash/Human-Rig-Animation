@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Apr 24 17:16:48 IST 2018
+#Wed Apr 25 18:08:12 IST 2018
 5.base=/home/ishara/android-3D-model-viewer/app/build/intermediates/assets/debug
 42.base=/home/ishara/android-3D-model-viewer/app/build/intermediates/assets/debug
 22.path=models/penguin.bmp
@@ -95,7 +95,7 @@ count=43
 41.set=ASSET
 28.path=models/cube.mtl
 30.base=/home/ishara/android-3D-model-viewer/app/build/intermediates/assets/debug
-10.path=models/ship2.obj
+10.path=models/cow2.dae
 13.baseType=DIRECTORY
 41.baseType=DIRECTORY
 38.path=models/ToyPlane.obj.jpg
@@ -144,7 +144,7 @@ count=43
 21.base=/home/ishara/android-3D-model-viewer/app/build/intermediates/assets/debug
 29.path=models/penguin.obj
 31.base=/home/ishara/android-3D-model-viewer/app/build/intermediates/assets/debug
-11.path=models/cow2.dae
+11.path=models/ship2.obj
 2.set=ASSET
 39.path=Untitled.xcf
 40.set=ASSET

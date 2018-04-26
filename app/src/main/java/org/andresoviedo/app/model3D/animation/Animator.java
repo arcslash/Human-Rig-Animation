@@ -1,17 +1,15 @@
 package org.andresoviedo.app.model3D.animation;
 
-import android.animation.Keyframe;
 import android.opengl.Matrix;
-import android.os.SystemClock;
 import android.util.Log;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
 import org.andresoviedo.app.Controls.JointEngine;
 import org.andresoviedo.app.model3D.model.AnimatedModel;
+
 import org.andresoviedo.app.model3D.model.Object3DData;
 import org.andresoviedo.app.model3D.services.collada.entities.Joint;
 
@@ -55,21 +53,56 @@ public class Animator {
 	 * zero if necessary), finds the pose that the entity should be in at that
 	 * time of the animation, and then applies that pose to all the model's
 	 * joints by setting the joint transforms.
+	 *
+	 *
 	 */
+
+	AnimatedModel animatedmodel;
 	public void update(Object3DData obj) {
 		if (!(obj instanceof AnimatedModel)) {
 
+
 			return;
 		}
+
+		animatedmodel = (AnimatedModel) obj;
+		float[][] jointtransforms = ((AnimatedModel) obj).getJointTransforms();
+
+		//Log.d("JOINT_COUNT",animatedmodel.getRootJoint().children.toString());
+		Map<String,float[]> currentpose = requestNonAnim(animatedmodel);
+
+
+		//animatedmodel.moveJoint(1,[]);
+		if (animatedmodel.getAnimation() == null){
+			//this.jointengine = requestNonAnim(getJoints(requestNonAnim(obj)));
+
+			return;
+		}
+
+
+
+
+
+
+//		if (!(obj instanceof AnimatedModel)) {
+//
+//			return;
+//		}
 		// if (true) return;
+
+		/*
+
 		AnimatedModel animatedModel = (AnimatedModel)obj;
 		if (animatedModel.getAnimation() == null){
-		    requestNonAnim(obj);
-            return;
-        }
-        if(initialized == false && (obj instanceof AnimatedModel)){
-            this.jointengine = new JointEngine(getJoints(calculateCurrentAnimationPose(animatedModel)));
-        }
+			//this.jointengine = requestNonAnim(getJoints(requestNonAnim(obj)));
+            //return;
+        }else{
+
+			if(initialized == false && (obj instanceof AnimatedModel)){
+				this.jointengine = new JointEngine(getJoints(calculateCurrentAnimationPose(animatedModel)));
+			}
+		}
+
 
 		//Log.d("PASSED",calculateCurrentAnimationPose(animatedModel).keySet().toString());
 
@@ -89,10 +122,51 @@ public class Animator {
 		float parentTransform[] = new float[16];
 		Matrix.setIdentityM(parentTransform,0);
 		Log.d("JOINTS_LIST",this.currentPose.keySet().toString());
-		Log.d("IDENTITY",Arrays.toString(this.currentPose.get("Lower_Leg_R")));
+		//Log.d("IDENTITY",Arrays.toString(this.currentPose.get("Lower_Leg_R")));
 
-		applyPoseToJoints(this.jointengine.requestPose(), (animatedModel).getRootJoint(), parentTransform);
+		applyPoseToJoints(currentpose, (animatedmodel).getRootJoint(), parentTransform);
+*/
+
 	}
+
+
+//	public void update(Object3DData obj) {
+//		if (!(obj instanceof AnimatedModel)) {
+//
+//			return;
+//		}
+//		// if (true) return;
+//		AnimatedModel animatedModel = (AnimatedModel)obj;
+//		if (animatedModel.getAnimation() == null){
+//			requestNonAnim(obj);
+//			return;
+//		}
+//		if(initialized == false && (obj instanceof AnimatedModel)){
+//			this.jointengine = new JointEngine(getJoints(calculateCurrentAnimationPose(animatedModel)));
+//		}
+//
+//		//Log.d("PASSED",calculateCurrentAnimationPose(animatedModel).keySet().toString());
+//
+//
+//
+//
+//		//initAnimation(animatedModel);
+//
+//		increaseAnimationTime((AnimatedModel)obj);
+//
+//		//String[] array_keys = new String[]calculateCurrentAnimationPose(animatedModel).keySet().toString();
+////
+//
+//		this.jointengine.changePose();
+//
+//		Log.d("CURRENT_MAP",currentPose.toString());
+//		float parentTransform[] = new float[16];
+//		Matrix.setIdentityM(parentTransform,0);
+//		Log.d("JOINTS_LIST",this.currentPose.keySet().toString());
+//		Log.d("IDENTITY",Arrays.toString(this.currentPose.get("Lower_Leg_R")));
+//
+//		applyPoseToJoints(this.jointengine.requestPose(), (animatedModel).getRootJoint(), parentTransform);
+//	}
 
 	private Map<String, float[]> getJoints(Map<String, float[]> temcurrentPose){
 		Map<String, float[]> init_map = new HashMap<String, float[]>();
@@ -113,9 +187,16 @@ public class Animator {
 
 	}
 
-	private void requestNonAnim(Object3DData animatedModel){
+	private Map<String, float[]> requestNonAnim(AnimatedModel obj){
 		Map<String, float[]> currentPose = new HashMap<String, float[]>();
-		String id_s = animatedModel.getId();
+        currentPose = obj.viewJoints();
+
+
+		Log.d("TESTING_TRANS",Arrays.toString(obj.getJointTransforms()[0]));
+//		for(){
+//
+//        }
+		//String id_s = animatedModel.getId();
 
 //		animatedModel.getJointTransforms();
 //
@@ -125,6 +206,11 @@ public class Animator {
 //		float parentTransform[] = new float[16];
 //		Matrix.setIdentityM(parentTransform,0);
 //		applyPoseToJoints(this.jointengine.requestPose(), (animatedModel).getRootJoint(), parentTransform);
+
+
+//		JointExtractor jointextractor = (JointExtractor)obj;
+//		jointextractor.getJointTransforms();
+		return currentPose;
 
 	}
 
