@@ -2,417 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe95e3bd-c4c4-43a2-aace-9698e5f02a52" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/models/Body mesh.dae" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/models/malcolm.dae" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileChanges/last-build.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileChanges/last-build.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/android-3D-model-viewer.iml" afterPath="$PROJECT_DIR$/android-3D-model-viewer.iml" />
-      <change beforePath="$PROJECT_DIR$/app/android-3d-model-viewer.jks" afterPath="$PROJECT_DIR$/app/android-3d-model-viewer.jks" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Untitled.xcf" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Untitled.xcf" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/ic_launcher.gif" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/ic_launcher.gif" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/DECALS.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/DECALS.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/DECALS.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/DECALS.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/Stormtrooper_D.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/Stormtrooper_D.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.obj" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.obj.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.obj.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/african_statue.stl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/african_statue.stl" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/android.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/android.obj" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cow2.dae" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cow2.dae" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cow3.dae" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cow3.dae" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cowboy.dae" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cowboy.dae" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cowboy.png" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cowboy.png" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.obj" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube2.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube2.obj" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube3.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube3.obj" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube4.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube4.obj" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.obj" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.obj" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.png" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.png" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.obj" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship_inverted_textures.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship_inverted_textures.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/sphere.OBJ" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/sphere.OBJ" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/spider.dae" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/spider.dae" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/stormtrooper.dae" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/stormtrooper.dae" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/teapot.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/teapot.obj" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.obj" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck_dirty.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck_dirty.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck_red.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck_red.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/piggy.gif" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/piggy.gif" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v11.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v11.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v14.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v14.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DImpl.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV10.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV11.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV3.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV4.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV5.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV6.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV7.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV8.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV9.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/view/ModelRenderer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/view/ModelRenderer.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DImpl.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV10.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV11.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV3.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV4.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV5.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV6.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV7.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV8.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV9.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/view/ModelRenderer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/view/ModelRenderer.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_dep/debug/dependencies/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_dep/debug/dependencies/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_0/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_0/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_1/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_2/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_2/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_3/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_3/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_4/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_4/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_5/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_5/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_6/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_6/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_7/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_7/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_8/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_8/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_9/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_9/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/j9uYM6OZ70i0M6qo+LwYm+gZl8Q=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/file-input-save-data.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/zip-cache/j9uYM6OZ70i0M6qo+LwYm+gZl8Q=" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-apk/debug/app-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest-checker/debug/manifest.crc" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest-checker/debug/manifest.crc" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest-checker/debug/manifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest-checker/debug/manifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher2.gif.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher2.gif.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher2.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher2.png.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher2.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher2.png.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ic_launcher2.gif.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ic_launcher2.gif.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_demo.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_demo.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_demo_item.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_demo_item.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_menu.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_menu.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_menu_item.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_menu_item.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_model.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_model.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_text.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_text.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_dialog_load_model.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_dialog_load_model.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_main.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_main.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_menu.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_menu.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_model.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_model.xml.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/raw_ic_launcher.gif.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/raw_ic_launcher.gif.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/dep/dependencies.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_4.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_5.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader$1.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader$2.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2.jar" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/3.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DImpl.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DImpl.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV1.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV10.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV10.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV11.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV11.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV2.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV3.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV3.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV4.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV4.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV5.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV5.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV6.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV6.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV7.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV7.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV8.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV8.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV9.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV9.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/view/ModelRenderer.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/view/ModelRenderer.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/5/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/5/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DImpl.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV10.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV11.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV3.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV4.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV5.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV6.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV7.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV8.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV9.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/view/ModelRenderer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/view/ModelRenderer.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/buildId.txt" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DImpl.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV10.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV11.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV3.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV4.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV5.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV6.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV7.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV8.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV9.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/view/ModelRenderer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/view/ModelRenderer.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/buildId.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/buildId.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader$1.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader$2.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change beforePath="$PROJECT_DIR$/app/lint.xml" afterPath="$PROJECT_DIR$/app/lint.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Untitled.xcf" afterPath="$PROJECT_DIR$/app/src/main/assets/Untitled.xcf" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/ic_launcher.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/ic_launcher.gif" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/DECALS.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/DECALS.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/DECALS.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/DECALS.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/Stormtrooper_D.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/Stormtrooper_D.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.obj" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.obj.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.obj.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/african_statue.stl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/african_statue.stl" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/android.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/android.obj" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cow2.dae" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cow2.dae" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cow3.dae" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cow3.dae" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cowboy.dae" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cowboy.dae" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cowboy.png" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cowboy.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube.obj" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube2.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube2.obj" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube3.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube3.obj" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube4.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube4.obj" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/penguin.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/penguin.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/penguin.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/penguin.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/penguin.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/penguin.obj" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship.obj" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship.png" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship2.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship2.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship2.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship2.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship2.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship2.obj" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship_inverted_textures.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship_inverted_textures.bmp" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/sphere.OBJ" afterPath="$PROJECT_DIR$/app/src/main/assets/models/sphere.OBJ" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/spider.dae" afterPath="$PROJECT_DIR$/app/src/main/assets/models/spider.dae" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/stormtrooper.dae" afterPath="$PROJECT_DIR$/app/src/main/assets/models/stormtrooper.dae" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/teapot.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/teapot.obj" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/truck.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/truck.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/truck.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/truck.mtl" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/truck.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/truck.obj" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/truck_dirty.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/truck_dirty.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/truck_red.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/truck_red.jpg" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/piggy.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/piggy.gif" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/BodyControl.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/BodyControl.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/Commander.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/Commander.java" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/JointEngine.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/JointEngine.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/MotionController.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/MotionController.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/Animation.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/Animation.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/Animator.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/Animator.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/JointTransform.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/JointTransform.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/KeyFrame.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/KeyFrame.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/collision/CollisionDetection.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/collision/CollisionDetection.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/collision/Octree.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/collision/Octree.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/controller/LoaderTask.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/controller/LoaderTask.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/controller/TouchController.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/controller/TouchController.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/entities/BoundingBox.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/entities/BoundingBox.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/entities/Camera.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/entities/Camera.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/AnimatedModel.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/AnimatedModel.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3D.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3D.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DBuilder.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DBuilder.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DData.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DImpl.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DImpl.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/ExampleSceneLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/ExampleSceneLoader.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/SceneLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/SceneLoader.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/WavefrontLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/WavefrontLoader.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/AnimatedModelData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/AnimatedModelData.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/AnimationData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/AnimationData.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Joint.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Joint.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/JointData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/JointData.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/KeyFrameData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/KeyFrameData.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/MeshData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/MeshData.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/SkeletonData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/SkeletonData.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/SkinningData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/SkinningData.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector2f.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector2f.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector3f.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector3f.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector4f.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector4f.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vertex.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vertex.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/VertexSkinData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/VertexSkinData.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/ColladaLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/ColladaLoader.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/GeometryLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/GeometryLoader.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkeletonLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkeletonLoader.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkeletonLoader2.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkeletonLoader2.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkinLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkinLoader.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/Component.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/Component.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/I18nManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/I18nManager.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/LittleEndianConverter.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/LittleEndianConverter.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLASCIIParser.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLASCIIParser.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLBinaryParser.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLBinaryParser.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLFileReader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLFileReader.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLLoader.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLParser.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLParser.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/package-info.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/package-info.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/wavefront/WavefrontLoader2.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/wavefront/WavefrontLoader2.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/GLUtil.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/GLUtil.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHider.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHider.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHiderBase.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHiderBase.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHiderHoneycomb.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHiderHoneycomb.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/DemoActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/DemoActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/MenuActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/MenuActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelRenderer.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelRenderer.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelSurfaceView.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelSurfaceView.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/Utils.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/Utils.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/content/ContentUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/content/ContentUtils.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/io/ProgressMonitorInputStream.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/io/ProgressMonitorInputStream.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/math/Math3DUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/math/Math3DUtils.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/math/Quaternion.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/math/Quaternion.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/url/android/Handler.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/url/android/Handler.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/view/TextActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/view/TextActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/xml/XmlNode.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/xml/XmlNode.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/xml/XmlParser.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/xml/XmlParser.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher2.gif" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher2.gif" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher2.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher2.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher2.gif" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher2.gif" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_demo.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_demo.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_demo_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_demo_item.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_item.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_model.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_model.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_text.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_text.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_load_model.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_load_model.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/model.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/model.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/ic_launcher.gif" afterPath="$PROJECT_DIR$/app/src/main/res/raw/ic_launcher.gif" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-sw600dp/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-sw600dp/dimens.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-sw720dp-land/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-sw720dp-land/dimens.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v11/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v11/styles.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-20-14-50-56-622.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-04-20-14-50-56-622.rawproto" />
-      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-20-14-55-41-846.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-04-20-14-55-41-846.rawproto" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change beforePath="$PROJECT_DIR$/market/Screenshot_20171208-150811.png" afterPath="$PROJECT_DIR$/market/Screenshot_20171208-150811.png" />
-      <change beforePath="$PROJECT_DIR$/market/Screenshot_20171208-150829.png" afterPath="$PROJECT_DIR$/market/Screenshot_20171208-150829.png" />
-      <change beforePath="$PROJECT_DIR$/market/Screenshot_20171208-150844.png" afterPath="$PROJECT_DIR$/market/Screenshot_20171208-150844.png" />
-      <change beforePath="$PROJECT_DIR$/market/Screenshot_20171208-150904.png" afterPath="$PROJECT_DIR$/market/Screenshot_20171208-150904.png" />
-      <change beforePath="$PROJECT_DIR$/screenshots/cowboy.gif" afterPath="$PROJECT_DIR$/screenshots/cowboy.gif" />
-      <change beforePath="$PROJECT_DIR$/screenshots/screenshot1.png" afterPath="$PROJECT_DIR$/screenshots/screenshot1.png" />
-      <change beforePath="$PROJECT_DIR$/screenshots/screenshot2.png" afterPath="$PROJECT_DIR$/screenshots/screenshot2.png" />
-      <change beforePath="$PROJECT_DIR$/screenshots/screenshot3.png" afterPath="$PROJECT_DIR$/screenshots/screenshot3.png" />
-      <change beforePath="$PROJECT_DIR$/screenshots/screenshot4.png" afterPath="$PROJECT_DIR$/screenshots/screenshot4.png" />
-      <change beforePath="$PROJECT_DIR$/screenshots/stormtrooper.gif" afterPath="$PROJECT_DIR$/screenshots/stormtrooper.gif" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -428,11 +18,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BodyControl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BodyControl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/BodyControl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/Animator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2021">
+              <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JointEngine.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/JointEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="36" column="48" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -2479,6 +2089,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/BodyControl.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/JointEngine.java" />
       </list>
     </option>
   </component>
@@ -2528,6 +2139,29 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="Controls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="model3D" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="model3D" type="462c0819:PsiDirectoryNode" />
+              <item name="animation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="model3D" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2737,7 +2371,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -2773,6 +2407,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/Animator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2021">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/JointEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="36" column="48" lean-forward="false" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
           <folding />
         </state>
       </provider>
