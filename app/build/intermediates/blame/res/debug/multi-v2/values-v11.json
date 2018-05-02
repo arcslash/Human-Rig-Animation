@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ishara/android-3D-model-viewer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "outputFile": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "/home/ishara/android-3D-model-viewer/app/src/main/res/values-v11/styles.xml",
+                    "source": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/src/main/res/values-v11/styles.xml",
                     "from": {
                         "startLines": "8,20,12",
                         "startColumns": "4,4,4",

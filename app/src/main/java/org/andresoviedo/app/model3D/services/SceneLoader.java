@@ -108,6 +108,7 @@ public class SceneLoader {
 				if (parent.getParamFile() != null) {
 					url = parent.getParamFile().toURI().toURL();
 				} else {
+					//Log.d("XXX","android:///org.andresoviedo.dddmodel2/assets/" + parent.getParamAssetDir() + File.separator + parent.getParamAssetFilename());
 					url = new URL("android://org.andresoviedo.dddmodel2/assets/" + parent.getParamAssetDir() + File.separator + parent.getParamAssetFilename());
 
 				}

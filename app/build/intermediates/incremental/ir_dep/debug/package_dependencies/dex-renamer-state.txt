@@ -1,4 +1,4 @@
-#Wed Apr 25 18:08:11 IST 2018
-base.0=/home/ishara/android-3D-model-viewer/app/build/intermediates/transforms/dexMerger/debug/10
+#Tue May 01 08:33:12 IST 2018
+base.0=/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/build/intermediates/transforms/dexMerger/debug/10
 path.0=classes.dex
 renamed.0=classes.dex

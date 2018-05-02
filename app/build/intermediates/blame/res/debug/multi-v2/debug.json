@@ -1,34 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/ishara/android-3D-model-viewer/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "outputFile": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
-                    "source": "/home/ishara/android-3D-model-viewer/app/src/main/res/values-v14/styles.xml",
-                    "from": {
-                        "startLines": "7",
-                        "startColumns": "4",
-                        "startOffsets": "225",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "373"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "201"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/home/ishara/android-3D-model-viewer/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
-            "map": [
-                {
-                    "source": "/home/ishara/android-3D-model-viewer/app/src/main/res/values/styles.xml",
+                    "source": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "8,18,29,37,22",
                         "startColumns": "4,4,4,4,4",
@@ -47,24 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/ishara/android-3D-model-viewer/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "19",
-                        "endColumns": "49",
-                        "endOffsets": "64"
-                    },
-                    "to": {
-                        "startLines": "11",
-                        "startColumns": "4",
-                        "startOffsets": "316",
-                        "endColumns": "49",
-                        "endOffsets": "361"
-                    }
-                },
-                {
-                    "source": "/home/ishara/android-3D-model-viewer/app/src/main/res/values/dimens.xml",
+                    "source": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/src/main/res/values/dimens.xml",
                     "from": {
                         "startLines": "3,4",
                         "startColumns": "4,4",
@@ -81,7 +40,24 @@
                     }
                 },
                 {
-                    "source": "/home/ishara/android-3D-model-viewer/app/src/main/res/values/strings.xml",
+                    "source": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "49",
+                        "endOffsets": "64"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "316",
+                        "endColumns": "49",
+                        "endOffsets": "361"
+                    }
+                },
+                {
+                    "source": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "14,28,5,45,3,4,33,26,24,32,12,34,35,42,30,31,8,7,10,9,41,40,39,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -102,10 +78,34 @@
             ]
         },
         {
-            "outputFile": "/home/ishara/android-3D-model-viewer/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "outputFile": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
             "map": [
                 {
-                    "source": "/home/ishara/android-3D-model-viewer/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "source": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "8,20,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "222,811,364",
+                        "endLines": "10,22,18",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "356,972,803"
+                    },
+                    "to": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,192,356",
+                        "endLines": "4,7,14",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "187,351,789"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/src/main/res/values-sw720dp-land/dimens.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
@@ -124,25 +124,25 @@
             ]
         },
         {
-            "outputFile": "/home/ishara/android-3D-model-viewer/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "outputFile": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
             "map": [
                 {
-                    "source": "/home/ishara/android-3D-model-viewer/app/src/main/res/values-v11/styles.xml",
+                    "source": "/home/ishara/AndroidStudioProjects/android-3D-model-viewer/app/src/main/res/values-v14/styles.xml",
                     "from": {
-                        "startLines": "8,20,12",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "222,811,364",
-                        "endLines": "10,22,18",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "356,972,803"
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
                     },
                     "to": {
-                        "startLines": "2,5,8",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,192,356",
-                        "endLines": "4,7,14",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "187,351,789"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
                     }
                 }
             ]

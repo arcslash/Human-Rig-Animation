@@ -1,39 +1,418 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3607442-52e6-4c4b-a852-2b5cc6e34a1a" name="Default" comment="">
+    <list default="true" id="fe95e3bd-c4c4-43a2-aace-9698e5f02a52" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/models/Body mesh.dae" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/models/malcolm.dae" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileChanges/last-build.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileChanges/last-build.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/android-3D-model-viewer.iml" afterPath="$PROJECT_DIR$/android-3D-model-viewer.iml" />
+      <change beforePath="$PROJECT_DIR$/app/android-3d-model-viewer.jks" afterPath="$PROJECT_DIR$/app/android-3d-model-viewer.jks" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Untitled.xcf" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/Untitled.xcf" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/ic_launcher.gif" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/ic_launcher.gif" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/DECALS.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/DECALS.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/DECALS.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/DECALS.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/Stormtrooper_D.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/Stormtrooper_D.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.obj" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.obj.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ToyPlane.obj.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/african_statue.stl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/african_statue.stl" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/android.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/android.obj" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cow2.dae" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cow2.dae" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cow3.dae" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cow3.dae" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cowboy.dae" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cowboy.dae" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cowboy.png" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cowboy.png" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube.obj" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube2.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube2.obj" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube3.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube3.obj" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube4.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/cube4.obj" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/penguin.obj" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.obj" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.png" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship.png" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship2.obj" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship_inverted_textures.bmp" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/ship_inverted_textures.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/sphere.OBJ" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/sphere.OBJ" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/spider.dae" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/spider.dae" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/stormtrooper.dae" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/stormtrooper.dae" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/teapot.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/teapot.obj" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.mtl" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.obj" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck.obj" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck_dirty.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck_dirty.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck_red.jpg" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/models/truck_red.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/piggy.gif" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/piggy.gif" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v11.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v11.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v14.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v14.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DImpl.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV10.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV11.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV6.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV7.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV8.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/model/Object3DV9.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/services/SceneLoader.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/view/ModelRenderer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/org/andresoviedo/app/model3D/view/ModelRenderer.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DImpl.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV10.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV11.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV6.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV7.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV8.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/model/Object3DV9.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/services/SceneLoader.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/view/ModelRenderer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/org/andresoviedo/app/model3D/view/ModelRenderer.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_dep/debug/dependencies/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_dep/debug/dependencies/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_dep/debug/package_dependencies/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_0/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_1/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_2/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_4/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_5/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_6/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_7/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_8/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_9/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_0/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_0/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_1/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_1/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_2/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_2/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_3/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_3/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_4/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_4/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_5/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_5/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_6/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_6/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_7/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_7/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_8/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_8/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_9/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/slice_9/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/j9uYM6OZ70i0M6qo+LwYm+gZl8Q=" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/file-input-save-data.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/tmp/debug/zip-cache/j9uYM6OZ70i0M6qo+LwYm+gZl8Q=" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-apk/debug/app-debug.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest-checker/debug/manifest.crc" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest-checker/debug/manifest.crc" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest-checker/debug/manifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest-checker/debug/manifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher2.gif.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher2.gif.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher2.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher2.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher2.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher2.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ic_launcher2.gif.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ic_launcher2.gif.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_demo.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_demo.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_demo_item.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_demo_item.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_menu.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_menu.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_menu_item.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_menu_item.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_model.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_model.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_text.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_text.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_dialog_load_model.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_dialog_load_model.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_main.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_main.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_menu.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_menu.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_model.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_model.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/raw_ic_launcher.gif.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/raw_ic_launcher.gif.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/dep/dependencies.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_0.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_4.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_4.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_5.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_5.apk" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.dex" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/10/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_7.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_8.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_9.apk" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader$1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader$1.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader$2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader$2.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/13/org/andresoviedo/app/model3D/services/SceneLoader.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/2.jar" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/3.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DImpl.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DImpl.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV1.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV1.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV10.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV10.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV11.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV11.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV2.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV2.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV3.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV3.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV4.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV4.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV5.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV5.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV6.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV6.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV7.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV7.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV8.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV8.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV9.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/model/Object3DV9.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/view/ModelRenderer.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/4/org/andresoviedo/app/model3D/view/ModelRenderer.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/10/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/11/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/12/classes.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/4/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/5/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/5/classes.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/7/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.class" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DImpl.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV10.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV11.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV6.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV7.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV8.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/model/Object3DV9.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/services/SceneLoader.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/view/ModelRenderer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/org/andresoviedo/app/model3D/view/ModelRenderer.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/buildId.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/buildId.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DImpl.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DImpl.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV10.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV10.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV11.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV11.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV3.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV4.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV5.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV6.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV6.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV7.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV7.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV8.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV8.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV9.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/model/Object3DV9.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/view/ModelRenderer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/0/org/andresoviedo/app/model3D/view/ModelRenderer.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/6/buildId.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/7/buildId.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader$1.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader$2.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/9/org/andresoviedo/app/model3D/services/SceneLoader.class" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change beforePath="$PROJECT_DIR$/app/lint.xml" afterPath="$PROJECT_DIR$/app/lint.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/Untitled.xcf" afterPath="$PROJECT_DIR$/app/src/main/assets/Untitled.xcf" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/ic_launcher.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/ic_launcher.gif" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/DECALS.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/DECALS.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/DECALS.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/DECALS.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/Stormtrooper_D.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/Stormtrooper_D.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.obj" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.obj.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ToyPlane.obj.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/african_statue.stl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/african_statue.stl" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/android.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/android.obj" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cow2.dae" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cow2.dae" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cow3.dae" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cow3.dae" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cowboy.dae" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cowboy.dae" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cowboy.png" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cowboy.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube.obj" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube2.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube2.obj" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube3.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube3.obj" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/cube4.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/cube4.obj" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/penguin.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/penguin.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/penguin.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/penguin.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/penguin.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/penguin.obj" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship.obj" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship.png" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship2.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship2.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship2.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship2.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship2.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship2.obj" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/ship_inverted_textures.bmp" afterPath="$PROJECT_DIR$/app/src/main/assets/models/ship_inverted_textures.bmp" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/sphere.OBJ" afterPath="$PROJECT_DIR$/app/src/main/assets/models/sphere.OBJ" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/spider.dae" afterPath="$PROJECT_DIR$/app/src/main/assets/models/spider.dae" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/stormtrooper.dae" afterPath="$PROJECT_DIR$/app/src/main/assets/models/stormtrooper.dae" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/teapot.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/teapot.obj" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/truck.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/truck.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/truck.mtl" afterPath="$PROJECT_DIR$/app/src/main/assets/models/truck.mtl" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/truck.obj" afterPath="$PROJECT_DIR$/app/src/main/assets/models/truck.obj" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/truck_dirty.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/truck_dirty.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/truck_red.jpg" afterPath="$PROJECT_DIR$/app/src/main/assets/models/truck_red.jpg" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/piggy.gif" afterPath="$PROJECT_DIR$/app/src/main/assets/piggy.gif" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/BodyControl.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/BodyControl.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/Commander.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/Commander.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/JointEngine.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/JointEngine.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/MotionController.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/MotionController.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/MainActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/Animation.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/Animation.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/Animator.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/Animator.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/JointTransform.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/JointTransform.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/KeyFrame.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/animation/KeyFrame.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/collision/CollisionDetection.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/collision/CollisionDetection.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/collision/Octree.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/collision/Octree.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/controller/LoaderTask.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/controller/LoaderTask.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/controller/TouchController.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/controller/TouchController.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/entities/BoundingBox.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/entities/BoundingBox.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/entities/Camera.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/entities/Camera.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/AnimatedModel.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/AnimatedModel.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3D.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3D.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DBuilder.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DBuilder.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DData.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DImpl.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/model/Object3DImpl.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/ExampleSceneLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/ExampleSceneLoader.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/SceneLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/SceneLoader.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/WavefrontLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/WavefrontLoader.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/AnimatedModelData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/AnimatedModelData.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/AnimationData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/AnimationData.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Joint.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Joint.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/JointData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/JointData.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/JointTransformData.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/KeyFrameData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/KeyFrameData.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/MeshData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/MeshData.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/SkeletonData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/SkeletonData.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/SkinningData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/SkinningData.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector2f.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector2f.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector3f.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector3f.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector4f.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vector4f.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vertex.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/Vertex.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/VertexSkinData.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/entities/VertexSkinData.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/AnimationLoader.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/ColladaLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/ColladaLoader.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/GeometryLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/GeometryLoader.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkeletonLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkeletonLoader.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkeletonLoader2.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkeletonLoader2.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkinLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkinLoader.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/Component.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/Component.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/I18nManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/I18nManager.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/LittleEndianConverter.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/LittleEndianConverter.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLASCIIParser.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLASCIIParser.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLBinaryParser.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLBinaryParser.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLFileReader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLFileReader.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLLoader.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLLoader.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLParser.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/STLParser.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/package-info.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/stl/package-info.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/wavefront/WavefrontLoader2.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/wavefront/WavefrontLoader2.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/GLUtil.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/GLUtil.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHider.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHider.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHiderBase.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHiderBase.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHiderHoneycomb.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/util/SystemUiHiderHoneycomb.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/DemoActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/DemoActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/MenuActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/MenuActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelRenderer.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelRenderer.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelSurfaceView.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/view/ModelSurfaceView.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/Utils.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/Utils.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/content/ContentUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/content/ContentUtils.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/io/ProgressMonitorInputStream.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/io/ProgressMonitorInputStream.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/math/Math3DUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/math/Math3DUtils.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/math/Quaternion.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/math/Quaternion.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/url/android/Handler.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/url/android/Handler.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/view/TextActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/view/TextActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/xml/XmlNode.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/xml/XmlNode.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/xml/XmlParser.java" afterPath="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/util/xml/XmlParser.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher2.gif" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher2.gif" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher2.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher2.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher2.gif" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher2.gif" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_demo.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_demo.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_demo_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_demo_item.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_item.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_model.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_model.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_text.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_text.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/dialog_load_model.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_load_model.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/menu/model.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/model.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/ic_launcher.gif" afterPath="$PROJECT_DIR$/app/src/main/res/raw/ic_launcher.gif" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-sw600dp/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-sw600dp/dimens.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-sw720dp-land/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-sw720dp-land/dimens.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v11/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v11/styles.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-20-14-50-56-622.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-04-20-14-50-56-622.rawproto" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-04-20-14-55-41-846.rawproto" afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-04-20-14-55-41-846.rawproto" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change beforePath="$PROJECT_DIR$/market/Screenshot_20171208-150811.png" afterPath="$PROJECT_DIR$/market/Screenshot_20171208-150811.png" />
+      <change beforePath="$PROJECT_DIR$/market/Screenshot_20171208-150829.png" afterPath="$PROJECT_DIR$/market/Screenshot_20171208-150829.png" />
+      <change beforePath="$PROJECT_DIR$/market/Screenshot_20171208-150844.png" afterPath="$PROJECT_DIR$/market/Screenshot_20171208-150844.png" />
+      <change beforePath="$PROJECT_DIR$/market/Screenshot_20171208-150904.png" afterPath="$PROJECT_DIR$/market/Screenshot_20171208-150904.png" />
+      <change beforePath="$PROJECT_DIR$/screenshots/cowboy.gif" afterPath="$PROJECT_DIR$/screenshots/cowboy.gif" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot1.png" afterPath="$PROJECT_DIR$/screenshots/screenshot1.png" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot2.png" afterPath="$PROJECT_DIR$/screenshots/screenshot2.png" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot3.png" afterPath="$PROJECT_DIR$/screenshots/screenshot3.png" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot4.png" afterPath="$PROJECT_DIR$/screenshots/screenshot4.png" />
+      <change beforePath="$PROJECT_DIR$/screenshots/stormtrooper.gif" afterPath="$PROJECT_DIR$/screenshots/stormtrooper.gif" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,11 +426,19 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>maxWeights</find>
-      <find>jointsData</find>
-    </findStrings>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BodyControl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/BodyControl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1623,19 +2010,19 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.1/d0752c46bc1c728ce5294c31838fe5ae4bd36f2f/gradle-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.1/47b7b5cc3c2f8514d71c4d77aa32fb17b25fab56/gradle-3.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.1/fefc85578f816ce0e50d58852491febb3b4d907a/gradle-core-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.1/250777904e400a9c3adbe08b9c287125e10cdeec/gradle-core-3.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.2/79231e42158f711cbe81eb766d7c3578e38557a4/gradle-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.2/1608fa49add4d13366db7844998c6e59711f7e2a/gradle-3.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.2/36e59348ddd26cbed10061dd4760e8ee030b88e4/gradle-core-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.2/ccab33656c1baa6514d88f4d9356db19d0e9823b/gradle-core-3.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/bundletool/0.1.0-alpha01/f7c303e37818223bd98566fcbea29aa0964c4d06/bundletool-0.1.0-alpha01.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.1/292e81b2d957e1284f253b2bcbaa618097401e14/builder-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.1/4c0680e6e92557fe9c57f6150606c8f2080f14a9/builder-3.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.1/f24e7129690d021ca4fab67761ca658a046ccc58/lint-gradle-api-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.1/8201b10c8d03c2319dfc14afe5668c64ae05d5bf/lint-gradle-api-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.1/9335db2800c1f50d54278aff3f7d86d919f94bc7/gradle-api-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.1/2d1a2b6775a3a3c9d7ca3488ca9479f5b05e4e96/gradle-api-3.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.1/ef0cde812479980133ce962160c270be7cb470a/compilerCommon-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.1/df51ad123c405f0dbd6cbc8774de92ca68afd922/compilerCommon-3.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.2/84b5fe203cd814a6a48fac7902c7b0bf0d455451/builder-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.2/133b1f665104f0ebf01f71b61e4794385d7b5f1b/builder-3.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.2/2e0f2d982094f220ddc62f94180ee5187c9c0cdf/lint-gradle-api-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.2/8c54aedfe9da66e64402de04883cee083c127a3b/lint-gradle-api-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.2/7239d441f5d79f12ff8f6066703e86ddd16a29cf/gradle-api-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.2/427e25639a55911cadcf70657c9b2ded2ad6af2b/gradle-api-3.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.2/a77b04ed519b3ac7c0e8946ee7e0eb156808f661/compilerCommon-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.2/be65c11ded4242932046f23ecfa5c7ccb0e98f46/compilerCommon-3.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.2.0/3d425bfaaa7f8b1affb652c4257aa57e6597e163/kotlin-stdlib-jre8-1.2.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.2.0/505f55b9619bbc5f5e26c77427dd24a6a441eef1/kotlin-stdlib-jre8-1.2.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/e4075c49e16e086140fe40eea56b2de7516874ee/transform-api-2.0.0-deprecated-use-gradle-api-sources.jar" />
@@ -1663,28 +2050,28 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.2/380fceb109283ad515a05ca6955f97290e392cd8/error_prone_annotations-2.1.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.2/6dcc08f90f678ac33e5ef78c3c752b6f59e63e0c/error_prone_annotations-2.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/aapt2-proto/0.1.0/d1eb93a21a8d3590c3bfac574a8b6dffb2dbd21c/aapt2-proto-0.1.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.1/ad827ef6f11a7f8a2549799deaf32b8da7e2be28/builder-model-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.1/ce6c9f8342caa5428b9640c7d2f2dc8161dda674/builder-model-3.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.1/29102e4884231b867959e49fe22d66dc48bd22cd/builder-test-api-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.1/f38fa7cf59ebb790f2ee82b4158b32563823e5c7/builder-test-api-3.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.1/67cd1c256e95aed4540a291b87baa6abce3ece07/sdklib-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.1/58465680a6f5d9a07cf38b8c4c7d2bb8d6e2219c/sdklib-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.1/2f31fd18edc824704577675e10cd0832faee1592/sdk-common-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.1/ea7b2e3f17491e0c05945431127334d79d3b35f9/sdk-common-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.1/431ca8004656cf35f44f43d1090ffdf4e9bccaf0/common-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.1/ba975dcf04fd201684cbf7acd8692e5b7a537f9d/common-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.1/e0be4034c9895b0b17a61a1c3aef5fa2b8127325/manifest-merger-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.1/3d36a633e8e562b0624e67304ca531d8264ee051/manifest-merger-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.1/c13b24ba911f8a7f2d913b88c7c9108ac956dc29/ddmlib-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.1/38e701b19a843e05de66e355a850cbbf001dfc6a/ddmlib-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.1/48154e336f8210582a7a2a025dbe2b926ab7adb4/protos-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.1/d58f5724467d21a4c9dd0faf235d038dc1002433/protos-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.1/69dc870008d90fbf0941f01a17c723261e2d3b24/shared-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.1/edf64ba5b27118f57f227471a838706c3879cf60/shared-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.1/dbe6da41615986b02aa944522cd60de815b0ada5/tracker-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.1/d209e62c9b06c1580443a275171f6d00089eef6d/tracker-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.1/2ec8eb7634213cef5497b67a1526cf74daaf2280/apksig-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.1/241a5428079e16535cf17a3b8db4b0c8c175cd4f/apksig-3.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.2/e74f8c12d313fb638cd3e199ea13a544870636d5/builder-model-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.2/4504b655fa8fe72302020ca9a2387f3f23fbfb57/builder-model-3.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.2/57f0b608e34a9493508d21f6a07cf34989901602/builder-test-api-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.2/ffb00b786822df6538377a90df9f2d11c022efc3/builder-test-api-3.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.2/eeb14343985046cf8c8504a06327db5a50e740ea/sdklib-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.2/94697a9dff499b64b6e101bedb89a89825150af/sdklib-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.2/569e3d1db94b053b15c81f7662ff8cecc4df785/sdk-common-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.2/2cf773af3fb0e1bbd56a80fc6903a9d2a40a248/sdk-common-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.2/fb215315bdbd152415f1fab7358015da3928d7ff/common-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.2/c31bbd68c51ed0ef3b8d7cdd5615acf762473887/common-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.2/58ada075a3be42ac5afe8a752a3fdebfcfdaae2b/manifest-merger-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.2/79f398427650c76f0c66c89f10e4886a1fe68c26/manifest-merger-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.2/8753f005a819994ebc56c3e567168c1fea745cc3/ddmlib-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.2/1d423e621fb5c89fed13e41d0ed026cf5d8d7e7b/ddmlib-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.2/2791dabd9906f673a77b755ca2f4950fd5248729/protos-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.2/ba53bcde9703b2bf9871128952dce844c5d743fa/protos-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.2/eb4223fe1e164a7c37cd1448f3d89fdc016901de/shared-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.2/bc21fe64fdaa64e59672e7d546d373f430e7557c/shared-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.2/37aae3a59f7220f45f85336f7374d5eaf37e5f7/tracker-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.2/2d2260da92e50ac072f89d60a596d03aab3a8757/tracker-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.2/93d9b522f74c2096cbaf84b088526f205d6b4a89/apksig-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.2/5af360dd30015a9a47c8ab0af0e6b05f64760edc/apksig-3.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/1b2a0925ff06220c0261b6fd468183cd9e9a9a47/javawriter-2.5.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.56/118b4633c59394749b2b2f278138beb31c930663/bcpkix-jdk15on-1.56-sources.jar" />
@@ -1699,8 +2086,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.2.0/7fb1210ceec26e7e5195894fa83e9e67ea4d2ba/kotlin-reflect-1.2.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.2.0/4bbda3b5425aa38a9f6960468a29c5ef3e8a28c9/kotlin-reflect-1.2.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.1/9770e8abf197c4d9784e4ed5ba804a86f21abaa3/baseLibrary-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.1/7c7f261e9f8dfb50d888223b13ba32d7622e7fec/baseLibrary-3.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.2/83a5696fb290f745f291d24d3b794beb267e124b/baseLibrary-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.2/1b6a1add6a577708b62737dc31c479549f77750d/baseLibrary-3.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.3/e836b2a7348320a86c3bbd91a032486798e6ab98/antlr4-4.5.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.3/f35db7e4b2446e4174ba6a73db7bd6b3e6bb5da1/antlr4-4.5.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/f2d8698c46d1167ff24b06a840a87d91a02db891/commons-io-2.4-sources.jar" />
@@ -1711,16 +2098,16 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.8.0/e858dc62ef484048540d27d36f3ec2177a3fa9b1/javapoet-1.8.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/bbb63ca253b483da8ee53a50374593923e3de2e2/gson-2.7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.1/550a3cf31d78e78925d2d99f8d3b3d0653f5db21/annotations-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.1/e91b00c2fa7d3139a485d53e0e382432da677a8b/annotations-26.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.2/7bc3fd2df32838e5b9b59804cc4c139bb89d26a5/annotations-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.2/4f4e0ee71b9ccaa4a70cc86e40fb84ada2ed99a3/annotations-26.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/6c73d839fa1603c38b067bc04d7950e05aef3d22/proguard-base-5.3.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/988b6b0636ce343d4962b3b37f6319dcc6e99a61/proguard-base-5.3.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.1/34035b244742ac13bee199b834b4b3843c6fdc5/layoutlib-api-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.1/7a76d33307781fffb3046301c3c375a1344a339a/layoutlib-api-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.1/7a82c56d6a1f88fe8871e04cac73a8321e170387/dvlib-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.1/1b0a07bae1a3726b981a2c0c8110c815ef772237/dvlib-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.1/cafc7710af40b1a3eba1f2e938fed2b2229f59f3/repository-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.1/9bfbf1f0b7b2d581bf057c54e0d4de4ee21e102e/repository-26.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.2/63d02e9088ee06e7b37f7314c145b5db7f39812e/layoutlib-api-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.2/3697abf628d30042c1082ea846454dfd1e8da3e/layoutlib-api-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.2/2a9e859006c73fc73b7642cd6560b6daac0b183f/dvlib-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.2/eb39925fee6e726468fc10344ec988c086301ed7/dvlib-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.2/ee0b2246a08385bd55f034c90ba0998b6d3a4213/repository-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.2/c8209ccb8ee0e5e3f293fd71d2a827f440ab811c/repository-26.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/1fdd1a2fed15cdf08780ed564279c0ddbff46419/commons-compress-1.12-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.6/b4e00fa279b1d45af3cb6daebcc1fee3f5402392/httpclient-4.2.6-sources.jar" />
@@ -1775,19 +2162,19 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.1/d0752c46bc1c728ce5294c31838fe5ae4bd36f2f/gradle-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.1/47b7b5cc3c2f8514d71c4d77aa32fb17b25fab56/gradle-3.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.1/fefc85578f816ce0e50d58852491febb3b4d907a/gradle-core-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.1/250777904e400a9c3adbe08b9c287125e10cdeec/gradle-core-3.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.2/79231e42158f711cbe81eb766d7c3578e38557a4/gradle-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.1.2/1608fa49add4d13366db7844998c6e59711f7e2a/gradle-3.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.2/36e59348ddd26cbed10061dd4760e8ee030b88e4/gradle-core-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-core/3.1.2/ccab33656c1baa6514d88f4d9356db19d0e9823b/gradle-core-3.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/bundletool/0.1.0-alpha01/f7c303e37818223bd98566fcbea29aa0964c4d06/bundletool-0.1.0-alpha01.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.1/292e81b2d957e1284f253b2bcbaa618097401e14/builder-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.1/4c0680e6e92557fe9c57f6150606c8f2080f14a9/builder-3.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.1/f24e7129690d021ca4fab67761ca658a046ccc58/lint-gradle-api-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.1/8201b10c8d03c2319dfc14afe5668c64ae05d5bf/lint-gradle-api-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.1/9335db2800c1f50d54278aff3f7d86d919f94bc7/gradle-api-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.1/2d1a2b6775a3a3c9d7ca3488ca9479f5b05e4e96/gradle-api-3.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.1/ef0cde812479980133ce962160c270be7cb470a/compilerCommon-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.1/df51ad123c405f0dbd6cbc8774de92ca68afd922/compilerCommon-3.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.2/84b5fe203cd814a6a48fac7902c7b0bf0d455451/builder-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.1.2/133b1f665104f0ebf01f71b61e4794385d7b5f1b/builder-3.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.2/2e0f2d982094f220ddc62f94180ee5187c9c0cdf/lint-gradle-api-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.1.2/8c54aedfe9da66e64402de04883cee083c127a3b/lint-gradle-api-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.2/7239d441f5d79f12ff8f6066703e86ddd16a29cf/gradle-api-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/3.1.2/427e25639a55911cadcf70657c9b2ded2ad6af2b/gradle-api-3.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.2/a77b04ed519b3ac7c0e8946ee7e0eb156808f661/compilerCommon-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.2/be65c11ded4242932046f23ecfa5c7ccb0e98f46/compilerCommon-3.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.2.0/3d425bfaaa7f8b1affb652c4257aa57e6597e163/kotlin-stdlib-jre8-1.2.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.2.0/505f55b9619bbc5f5e26c77427dd24a6a441eef1/kotlin-stdlib-jre8-1.2.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/e4075c49e16e086140fe40eea56b2de7516874ee/transform-api-2.0.0-deprecated-use-gradle-api-sources.jar" />
@@ -1815,28 +2202,28 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.2/380fceb109283ad515a05ca6955f97290e392cd8/error_prone_annotations-2.1.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.1.2/6dcc08f90f678ac33e5ef78c3c752b6f59e63e0c/error_prone_annotations-2.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/aapt2-proto/0.1.0/d1eb93a21a8d3590c3bfac574a8b6dffb2dbd21c/aapt2-proto-0.1.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.1/ad827ef6f11a7f8a2549799deaf32b8da7e2be28/builder-model-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.1/ce6c9f8342caa5428b9640c7d2f2dc8161dda674/builder-model-3.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.1/29102e4884231b867959e49fe22d66dc48bd22cd/builder-test-api-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.1/f38fa7cf59ebb790f2ee82b4158b32563823e5c7/builder-test-api-3.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.1/67cd1c256e95aed4540a291b87baa6abce3ece07/sdklib-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.1/58465680a6f5d9a07cf38b8c4c7d2bb8d6e2219c/sdklib-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.1/2f31fd18edc824704577675e10cd0832faee1592/sdk-common-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.1/ea7b2e3f17491e0c05945431127334d79d3b35f9/sdk-common-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.1/431ca8004656cf35f44f43d1090ffdf4e9bccaf0/common-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.1/ba975dcf04fd201684cbf7acd8692e5b7a537f9d/common-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.1/e0be4034c9895b0b17a61a1c3aef5fa2b8127325/manifest-merger-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.1/3d36a633e8e562b0624e67304ca531d8264ee051/manifest-merger-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.1/c13b24ba911f8a7f2d913b88c7c9108ac956dc29/ddmlib-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.1/38e701b19a843e05de66e355a850cbbf001dfc6a/ddmlib-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.1/48154e336f8210582a7a2a025dbe2b926ab7adb4/protos-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.1/d58f5724467d21a4c9dd0faf235d038dc1002433/protos-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.1/69dc870008d90fbf0941f01a17c723261e2d3b24/shared-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.1/edf64ba5b27118f57f227471a838706c3879cf60/shared-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.1/dbe6da41615986b02aa944522cd60de815b0ada5/tracker-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.1/d209e62c9b06c1580443a275171f6d00089eef6d/tracker-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.1/2ec8eb7634213cef5497b67a1526cf74daaf2280/apksig-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.1/241a5428079e16535cf17a3b8db4b0c8c175cd4f/apksig-3.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.2/e74f8c12d313fb638cd3e199ea13a544870636d5/builder-model-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.1.2/4504b655fa8fe72302020ca9a2387f3f23fbfb57/builder-model-3.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.2/57f0b608e34a9493508d21f6a07cf34989901602/builder-test-api-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.1.2/ffb00b786822df6538377a90df9f2d11c022efc3/builder-test-api-3.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.2/eeb14343985046cf8c8504a06327db5a50e740ea/sdklib-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.1.2/94697a9dff499b64b6e101bedb89a89825150af/sdklib-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.2/569e3d1db94b053b15c81f7662ff8cecc4df785/sdk-common-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/sdk-common/26.1.2/2cf773af3fb0e1bbd56a80fc6903a9d2a40a248/sdk-common-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.2/fb215315bdbd152415f1fab7358015da3928d7ff/common-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/common/26.1.2/c31bbd68c51ed0ef3b8d7cdd5615acf762473887/common-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.2/58ada075a3be42ac5afe8a752a3fdebfcfdaae2b/manifest-merger-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/26.1.2/79f398427650c76f0c66c89f10e4886a1fe68c26/manifest-merger-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.2/8753f005a819994ebc56c3e567168c1fea745cc3/ddmlib-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/26.1.2/1d423e621fb5c89fed13e41d0ed026cf5d8d7e7b/ddmlib-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.2/2791dabd9906f673a77b755ca2f4950fd5248729/protos-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/protos/26.1.2/ba53bcde9703b2bf9871128952dce844c5d743fa/protos-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.2/eb4223fe1e164a7c37cd1448f3d89fdc016901de/shared-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.1.2/bc21fe64fdaa64e59672e7d546d373f430e7557c/shared-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.2/37aae3a59f7220f45f85336f7374d5eaf37e5f7/tracker-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/tracker/26.1.2/2d2260da92e50ac072f89d60a596d03aab3a8757/tracker-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.2/93d9b522f74c2096cbaf84b088526f205d6b4a89/apksig-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/apksig/3.1.2/5af360dd30015a9a47c8ab0af0e6b05f64760edc/apksig-3.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/1b2a0925ff06220c0261b6fd468183cd9e9a9a47/javawriter-2.5.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.56/118b4633c59394749b2b2f278138beb31c930663/bcpkix-jdk15on-1.56-sources.jar" />
@@ -1851,8 +2238,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.2.0/7fb1210ceec26e7e5195894fa83e9e67ea4d2ba/kotlin-reflect-1.2.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.2.0/4bbda3b5425aa38a9f6960468a29c5ef3e8a28c9/kotlin-reflect-1.2.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.1/9770e8abf197c4d9784e4ed5ba804a86f21abaa3/baseLibrary-3.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.1/7c7f261e9f8dfb50d888223b13ba32d7622e7fec/baseLibrary-3.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.2/83a5696fb290f745f291d24d3b794beb267e124b/baseLibrary-3.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/3.1.2/1b6a1add6a577708b62737dc31c479549f77750d/baseLibrary-3.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.3/e836b2a7348320a86c3bbd91a032486798e6ab98/antlr4-4.5.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.3/f35db7e4b2446e4174ba6a73db7bd6b3e6bb5da1/antlr4-4.5.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/f2d8698c46d1167ff24b06a840a87d91a02db891/commons-io-2.4-sources.jar" />
@@ -1863,16 +2250,16 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/javapoet/1.8.0/e858dc62ef484048540d27d36f3ec2177a3fa9b1/javapoet-1.8.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/bbb63ca253b483da8ee53a50374593923e3de2e2/gson-2.7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.1/550a3cf31d78e78925d2d99f8d3b3d0653f5db21/annotations-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.1/e91b00c2fa7d3139a485d53e0e382432da677a8b/annotations-26.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.2/7bc3fd2df32838e5b9b59804cc4c139bb89d26a5/annotations-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/26.1.2/4f4e0ee71b9ccaa4a70cc86e40fb84ada2ed99a3/annotations-26.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/6c73d839fa1603c38b067bc04d7950e05aef3d22/proguard-base-5.3.3-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.proguard/proguard-base/5.3.3/988b6b0636ce343d4962b3b37f6319dcc6e99a61/proguard-base-5.3.3.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.1/34035b244742ac13bee199b834b4b3843c6fdc5/layoutlib-api-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.1/7a76d33307781fffb3046301c3c375a1344a339a/layoutlib-api-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.1/7a82c56d6a1f88fe8871e04cac73a8321e170387/dvlib-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.1/1b0a07bae1a3726b981a2c0c8110c815ef772237/dvlib-26.1.1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.1/cafc7710af40b1a3eba1f2e938fed2b2229f59f3/repository-26.1.1-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.1/9bfbf1f0b7b2d581bf057c54e0d4de4ee21e102e/repository-26.1.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.2/63d02e9088ee06e7b37f7314c145b5db7f39812e/layoutlib-api-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.1.2/3697abf628d30042c1082ea846454dfd1e8da3e/layoutlib-api-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.2/2a9e859006c73fc73b7642cd6560b6daac0b183f/dvlib-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.1.2/eb39925fee6e726468fc10344ec988c086301ed7/dvlib-26.1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.2/ee0b2246a08385bd55f034c90ba0998b6d3a4213/repository-26.1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.1.2/c8209ccb8ee0e5e3f293fd71d2a827f440ab811c/repository-26.1.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/1fdd1a2fed15cdf08780ed564279c0ddbff46419/commons-compress-1.12-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.12/84caa68576e345eb5e7ae61a0e5a9229eb100d7b/commons-compress-1.12.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.6/b4e00fa279b1d45af3cb6daebcc1fee3f5402392/httpclient-4.2.6-sources.jar" />
@@ -2091,7 +2478,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/model3D/services/collada/loader/SkinLoader.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/BodyControl.java" />
       </list>
     </option>
   </component>
@@ -2116,8 +2503,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
@@ -2144,189 +2529,19 @@
               <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="Controls" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="animation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="collision" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="entities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="Object3DBuilder.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="Object3DImpl.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="collada" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="collada" type="462c0819:PsiDirectoryNode" />
-              <item name="entities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="collada" type="462c0819:PsiDirectoryNode" />
-              <item name="loader" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="model3D" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="android-3D-model-viewer" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="app" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="xml" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="Pixel_2_XL_API_25" />
   </component>
@@ -2501,46 +2716,49 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c3607442-52e6-4c4b-a852-2b5cc6e34a1a" name="Default" comment="" />
-      <created>1524801315031</created>
+      <changelist id="fe95e3bd-c4c4-43a2-aace-9698e5f02a52" name="Default" comment="" />
+      <created>1525233900027</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1524801315031</updated>
+      <updated>1525233900027</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="-4" width="1863" height="1092" extended-state="6" />
+    <frame x="58" y="-11" width="1863" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Flutter Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Flutter Inspector" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2549,6 +2767,16 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/org/andresoviedo/app/Controls/BodyControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

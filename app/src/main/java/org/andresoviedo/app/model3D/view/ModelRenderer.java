@@ -1,7 +1,6 @@
 package org.andresoviedo.app.model3D.view;
 
 import java.io.ByteArrayInputStream;
-import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -21,7 +20,7 @@ import android.opengl.GLES20;
 import android.opengl.GLSurfaceView;
 import android.opengl.Matrix;
 import android.util.Log;
-import android.widget.Toast;
+
 
 public class ModelRenderer implements GLSurfaceView.Renderer {
 
